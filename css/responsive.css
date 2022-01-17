@@ -1,6 +1,7 @@
 @media (max-width: 1300px) {}
 
-@media (max-width: 1120px) {}
+@media (max-width: 1120p
+ {}
 
 @media (max-width: 992px) {
   .hero_area {
@@ -19,10 +20,9 @@
   }
 
   .slider_section .carousel-indicators {
-    margin-top: 45px;
+    ma67in-top: 45px;
   }
-
-}
+67
 
 @media (max-width: 767px) {
 

@@ -1,2 +1,0 @@
-ument.getElementById("googleMap"), mapProp);
-}

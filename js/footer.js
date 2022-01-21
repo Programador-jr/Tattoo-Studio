@@ -10,16 +10,16 @@ const createFooter = () => {
         <div class="col-md-4 col-lg-3">
           <div class="social_box">
             <a href="">
-              <i class="fa fa-facebook" aria-hidden="true"></i>
+              <i class="fab fa-facebook-f" aria-hidden="true"></i>
             </a>
             <a href="">
-              <i class="fa fa-twitter" aria-hidden="true"></i>
+              <i class="fab fa-twitter" aria-hidden="true"></i>
             </a>
             <a href="">
-              <i class="fa fa-instagram" aria-hidden="true"></i>
+              <i class="fab fa-instagram" aria-hidden="true"></i>
             </a>
             <a href="">
-              <i class="fa fa-youtube-play" aria-hidden="true"></i>
+              <i class="fab fa-youtube" aria-hidden="true"></i>
             </a>
           </div>
         </div>
@@ -52,7 +52,7 @@ const createFooter = () => {
           <h4>Entre em contato conosco</h4>
           <div class="footer_contact">
             <a href="">
-              <i class="fa fa-map-marker" aria-hidden="true"></i>
+              <i class="fas fa-map-marked-alt" aria-hidden="true"></i>
               <span>Localização</span>
             </a>
             <a href="">
@@ -66,16 +66,14 @@ const createFooter = () => {
               </span>
             </a>
           </div>
-        </div>
-        <div class="col-md-6 col-lg-3 footer-col">
-          <div class="map_container">
-            <div class="map">
-              <div id="googleMap"></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+      		</div>
+        		<div class="col-md-6 col-lg-3 footer-col">
+          		<div class="mapouter map_container">
+								<div class="gmap_canvas map"></div>
+							</div>
+        		</div>
+      		</div>
+    	</div>
     <div class="footer-info">
       <p>
         &copy; <span id="displayYear"></span>Todos os direitos reservados por

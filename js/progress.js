@@ -1,5 +1,3 @@
-//- Reading Progress Indicator
-
 {
     const progress = document.querySelector(".js-progress");
     const body = document.body;

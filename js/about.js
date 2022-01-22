@@ -20,7 +20,7 @@ const createAbout = () => {
 		              in some form, by injected humour, or randomised words which don't look even slightly believable. If you
 		              are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in
 		              the middle of text. All</p>
-		            <a href="">
+		            <a href="about.html">
 		              Mais Informações
 		            </a>
 		          </div>

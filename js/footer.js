@@ -76,7 +76,7 @@ const createFooter = () => {
     	</div>
     <div class="footer-info">
       <p>
-        &copy; <span id="displayYear"></span>Todos os direitos reservados por
+        &copy; <span id="displayYear">2022</span> Todos os direitos reservados por
         <a href="#">Tattoo Studio</a>
       </p>
     </div>

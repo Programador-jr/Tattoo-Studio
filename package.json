@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Programador-jr/Tattoo-Studio#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
-    "express": "^4.17.2",
+    "express": "^4.18.2",
     "jquery": "^3.6.0",
     "popper.js": "^1.16.1"
   }
